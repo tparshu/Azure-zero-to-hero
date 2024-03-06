@@ -22,6 +22,6 @@ kubectl get svc -n argocd
 
 kubectl edit svc argocd-server -n argocd
 
-<local host>: http port 
+local host: http port 
 
 allow inbound rule from virtual machine skill set
